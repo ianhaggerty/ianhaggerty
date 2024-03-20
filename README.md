@@ -1,4 +1,4 @@
-### Hey There World! 👋
+### Hey There World 👋
 
 Thanks for checking out my GitHub profile!
 
