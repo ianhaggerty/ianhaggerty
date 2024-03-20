@@ -1,6 +1,25 @@
-### Hi there 👋
+### Hey There World! 👋
 
-https://github.com/ianhaggerty/ianhaggerty/assets/1136426/33ea2c1f-203b-4cca-a140-723e2fb1e50d
+Thanks for checking out my GitHub profile!
+
+I've done my best to keep things organised here...
+
+You can find plenty of weird and wonderful creations.
+
+- CLI Apps
+- Websites
+- CSS Projects
+- Data Science
+- NLP!
+- Machine learning
+
+So have a poke around!
+
+If you like what you see, give me a PM. 💬
+ 
+Perhaps we can build something together? 👯
+
+Ian
 
 <!--
 **ianhaggerty/ianhaggerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
